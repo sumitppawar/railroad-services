@@ -29,7 +29,7 @@ Railroad-Services
 ```
 com.railroad.ltqland
   - conf 
-  - network (Buil rail road based on input conf)
+  - network (Build rail road network for given conf)
   - domain 
   - services
         - distance
