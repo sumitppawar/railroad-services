@@ -5,5 +5,4 @@ final case class Town(
   outRoutes: Set[OutRoute]
 )
 
-final case class InRoute(fromTownName: TownName, distance: Int)
 final case class OutRoute(toTownName: TownName, distance: Int)
